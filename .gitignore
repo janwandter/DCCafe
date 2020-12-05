@@ -1,7 +1,5 @@
-*.csv
 *.pdf
 prueba1.py
 prueba.py
 __pycache__/
-sprites/
 .vscode/
